@@ -1,16 +1,15 @@
-## Hi there 👋
+# Halo, Saya Adit! 👋
 
-<!--
-**zeronosA25/zeronosA25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang mahasiswa IT yang sedang mendalami Software Engineering dan Web Development.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,java,docker,git,vscode" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Statistik Adit](https://github-readme-stats.vercel.app/api?username=zeronosA25&show_icons=true&theme=tokyonight)
+
+### 🔭 Sedang Mengerjakan
+- Pengembangan Sistem Informasi Penjualan Mobil.
+- Eksplorasi Data Warehouse dan Keamanan Jaringan.
