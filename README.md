@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/Interest-Cyber%20Security-red?style=flat-square" />
 </p>
 
-Saya adalah mahasiswa Teknik Informatika yang berfokus pada **Software Engineering** dan **Data Management**. Saat ini, saya sedang aktif mengembangkan sistem informasi berbasis web dan mendalami keamanan jaringan.
+Gua Adit seorang Mahasiswa dari Universitas Esa Unggul, ilmu gua dalam dunia perkodingan masih kurang tapi gua selalu berusaha buat gak ketinggalan.
+Just do whatever you want, because when comes the time you regret with the choice
 
 ---
 
