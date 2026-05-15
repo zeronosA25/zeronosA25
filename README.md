@@ -12,10 +12,17 @@ Saya adalah mahasiswa Teknik Informatika yang berfokus pada **Software Engineeri
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks**
+**Programming Languages**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,php,js" />
+  </a>
+</p>
+
+**Frameworks & Databases**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,mysql,postgres" />
   </a>
 </p>
 
@@ -46,7 +53,7 @@ Saya adalah mahasiswa Teknik Informatika yang berfokus pada **Software Engineeri
 
 ### 💬 Hubungi Saya
 - **Email**: adityabanoga@gmail.com
-- **Discord**: (Tampilkan status Discord-mu dengan integrasi PreMid atau VS Code!)
+- **Discord**: (Tampilkan status Discord-mu melalui integrasi yang kita bahas tadi!)
 
 ---
 <p align="center">
